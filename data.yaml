@@ -1,0 +1,11 @@
+path: ./dataset # Hazırladığın veri setinin ana dizini
+train: images/train
+val: images/val
+
+# Sınıf isimleri (prepare_data.py'daki sırayla aynı olmalı)
+names:
+  0: person
+  1: car
+  2: cat
+  3: dog
+  4: chair

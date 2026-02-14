@@ -1,0 +1,9 @@
+yolov8n.pt
+
+instances.json
+mini_coco/
+dataset/
+runs/
+
+__pycache__/
+.ipynb_checkpoints/
