@@ -1,4 +1,3 @@
-"""
 
 # 🔍 Object Detection Case Study: Mini-COCO Analysis & Deployment
 
